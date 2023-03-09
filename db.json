@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "firstName": "Veerasimhaa",
+      "lastName": "reddy",
+      "email": "veerareddy@gmail.com",
+      "mobile": 94410343867,
+      "salary": 399739
+    },
+    {
+      "id": 3,
+      "firstName": "Ravi ",
+      "lastName": "Kumar",
+      "email": "ravi@kumar.mail.com",
+      "mobile": 88775543322,
+      "salary": 898708
+    },
+    {
+      "id": 4,
+      "firstName": "Mahesh",
+      "lastName": "Babu",
+      "email": "mahesh2mike@mail.com",
+      "mobile": 9848037494,
+      "salary": 23129
+    }
+  ]
+}
